@@ -1,6 +1,6 @@
-# Hi, I'm Mohsen Khalili (Dermani)
+# Hi, I'm Mohsen Khalili Dermani
 
-Economics M.A. and research assistant working in **empirical and labour economics**. I turn large, messy public micro-datasets into clean, reproducible panels and credible estimates — and I care as much about honest identification as about the headline result.
+M.A. in Energy Economics (Khatam University / TeIAS) and research assistant working in **empirical and labour economics**. I turn large, messy public micro-datasets into clean, reproducible panels and credible estimates — and I care as much about honest identification as about the headline result.
 
 ## What I do
 
